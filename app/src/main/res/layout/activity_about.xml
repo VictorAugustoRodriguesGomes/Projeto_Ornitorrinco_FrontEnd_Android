@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="Sobre o Projeto X"
+            android:text="Sobre o Projeto"
             android:textAllCaps="true"
             android:textColor="@color/primary_color"
             android:textSize="20sp"

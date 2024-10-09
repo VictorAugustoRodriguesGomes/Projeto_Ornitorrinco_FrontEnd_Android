@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+/app/src/main/java/com/victor/augusto/projeto_ornitorrinco/ApiConnection/Connection
